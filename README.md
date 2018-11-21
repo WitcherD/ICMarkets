@@ -7,4 +7,4 @@ All interesting notes and explanations within the code in the comments.
 .net core 2.1
 
 ### Projects dependencies graph
-![Projects dependencies graph]()
+![Projects dependencies graph](https://github.com/WitcherD/ICMarkets/raw/master/DependenciesGraph.png)
